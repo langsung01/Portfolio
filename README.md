@@ -12,7 +12,7 @@
 - 🖥️Project Description : Implementing mini quadcopter control and trajectory tracking with Crazyflie libraries.
 ### 🎥 Implementation of Visual SLAM using Drones
 - 🕛Project Duration : 2024.03 ~ 2024.06
-- 🖥️Project Description : Implemented live ORB SLAM3, Droid SLAM, and Gaussian Splatting SLAM with Tello drone data, evaluating tracking accuracy using pose data from OptiTrack,
+- 🖥️Project Description : Implemented live ORB SLAM3, Droid SLAM, and Gaussian Splatting SLAM with Tello drone data, evaluating tracking accuracy using pose data from OptiTrack.
 ### 🤖 PID control of Drone in Morphological Adaptation Robot
 - 🕛Project Duration : 2023.09 ~ 2023.12
 - 🖥️Project Description : Developing the drone’s PID control system by incorporating ultrasonic, pressure, and IMU sensors.
