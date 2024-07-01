@@ -4,7 +4,7 @@
 - Sookmyung Women’s University
 ---
 ## Project(~2023.Nov)
-### 🖼️ CIFAR-10-Dataset-Classification
+### [🖼️ CIFAR-10-Dataset-Classification](https://github.com/langsung01/CIFAR-10-Dataset-Classification.git)
 - 🕛Project Duration : 2023.06~2023.07
 - 🖥️Project Description : Constructing a high-accuracy deep learning model for classifying CIFAR-10 dataset
 ### 🚗 Deep Learning Autonomous Driving Car
