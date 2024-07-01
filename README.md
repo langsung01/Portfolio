@@ -4,7 +4,7 @@
 - Sookmyung Women’s University
 ---
 ## Project(~2024.Jun)
-### 🐢 Indoor SLAM&Navigation with Turtlebot3
+### 🐢 Indoor SLAM & Navigation with Turtlebot3
 - 🕛Project Duration : 2024.04 ~ 2024.06
 - 🖥️Project Description : Creating an indoor map and performing autonomous navigation using TurtleBot3 and ROS.
 ### 🚁 Quadcopter Control with Crazyflie
