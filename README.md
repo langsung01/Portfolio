@@ -9,7 +9,7 @@
 - 🖥️Project Description : Creating an indoor map and performing autonomous navigation using TurtleBot3 and ROS.
 ### 🚁 Quadcopter Control with Crazyflie
 - 🕛Project Duration : 2024.04  ~ 2024.06
-- 🖥️Project Description : Implementing mini quadcopter control and trajectory tracking with Crazyflie libraries.
+- 🖥️Project Description : Implementing mini quadcopter control and trajectory tracking with Crazyflie.
 ### 🎥 Implementation of Visual SLAM using Drones
 - 🕛Project Duration : 2024.03 ~ 2024.06
 - 🖥️Project Description : Implemented live ORB SLAM3, Droid SLAM, and Gaussian Splatting SLAM with Tello drone data, evaluating tracking accuracy using pose data from OptiTrack.
