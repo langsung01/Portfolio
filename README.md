@@ -4,7 +4,7 @@
 - Department of Mechanical Systems Engineering
 
 ---
-## Project(~2024.Jul)
+## Project(~2024 Jul)
 
 ### [🏓Table-Tennis Robot](https://github.com/langsung01/Table-Tennis-Robot.git)
 - 🕛Project Duration : 2024.07 ~ 2024.08 (In Progress)
