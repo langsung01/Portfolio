@@ -15,7 +15,7 @@
 ### [🚁 Quadcopter Control with Crazyflie](https://github.com/langsung01/swarm-crazyflie.git)
 - 🕛Project Duration : 2024.04  ~ 2024.06
 - 🖥️Project Description : Implementing Swarm Control and Trajectory Tracking for Mini Quadcopters Using Crazyflie and Motion Capture Tracking System.
-### 🍔Burger Making Machine
+###  🍔Burger Making Machine
 - 🕛Project Duration : 2023.09  ~ 2024.11
 - 🖥️Project Description : Developed a burger assembly machine, sequentially dispensing ingredients onto a rotating platform.
 ### [🖼️ CIFAR-10-Dataset-Classification](https://github.com/langsung01/CIFAR-10-Dataset-Classification.git)
