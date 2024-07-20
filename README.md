@@ -4,7 +4,7 @@
 - Department of Mechanical Systems Engineering
 
 ---
-## Project(~2024.Jun)
+## Project(~2024.Jul)
 
 ### 🏓Table-Tennis Robot
 - 🕛Project Duration : 2024.07 ~ 2024.08 (In Progress)
@@ -15,12 +15,6 @@
 ### 🚁 Quadcopter Control with Crazyflie
 - 🕛Project Duration : 2024.04  ~ 2024.06
 - 🖥️Project Description : Implementing Swarm Control and Trajectory Tracking for Mini Quadcopters Using Crazyflie and Motion Capture Tracking System.
-### 🎥 Implementation of Visual SLAM using Drones
-- 🕛Project Duration : 2024.03 ~ 2024.06
-- 🖥️Project Description : Implemented live ORB SLAM3, Droid SLAM, and Gaussian Splatting SLAM with Tello drone data, evaluating tracking accuracy using pose data from OptiTrack.
-### 🤖 PID control of Drone in Morphological Adaptation Robot
-- 🕛Project Duration : 2023.09 ~ 2023.12
-- 🖥️Project Description : Developing the drone’s PID control system by incorporating ultrasonic, pressure, and IMU sensors.
 ### [🖼️ CIFAR-10-Dataset-Classification](https://github.com/langsung01/CIFAR-10-Dataset-Classification.git)
 - 🕛Project Duration : 2023.06 ~ 2023.07
 - 🖥️Project Description : Constructing a high-accuracy deep learning model for classifying CIFAR-10 dataset
