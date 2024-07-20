@@ -1,15 +1,20 @@
 # Yerang's Portfolio
 - Senior(Enrolled in the 7th Semester)
-- Department of Mechanical Systems Engineering
 - Sookmyung Women’s University
+- Department of Mechanical Systems Engineering
+
 ---
 ## Project(~2024.Jun)
+
+### 🏓Table-Tennis Robot
+- 🕛Project Duration : 2024.07 ~ 2024.08 (In Progress)
+- 🖥️Project Description : Design of a Table-Tennis Robot Control System Using Vision and Pose Estimation.
 ### 🐢 Indoor SLAM & Navigation with Turtlebot3
 - 🕛Project Duration : 2024.04 ~ 2024.06
 - 🖥️Project Description : Creating an indoor map and performing autonomous navigation using TurtleBot3 and ROS.
 ### 🚁 Quadcopter Control with Crazyflie
 - 🕛Project Duration : 2024.04  ~ 2024.06
-- 🖥️Project Description : Implementing mini quadcopter control and trajectory tracking with Crazyflie.
+- 🖥️Project Description : Implementing Swarm Control and Trajectory Tracking for Mini Quadcopters Using Crazyflie and Motion Capture Tracking System.
 ### 🎥 Implementation of Visual SLAM using Drones
 - 🕛Project Duration : 2024.03 ~ 2024.06
 - 🖥️Project Description : Implemented live ORB SLAM3, Droid SLAM, and Gaussian Splatting SLAM with Tello drone data, evaluating tracking accuracy using pose data from OptiTrack.
